@@ -31,3 +31,4 @@ MemoryGame.prototype.finished = function () {
   return this.pairsGuessed >= 12;
 };
 
+
